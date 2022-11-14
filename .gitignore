@@ -27,7 +27,8 @@ yarn-error.log*
 
 # local env files
 .env*.local
-
+#API KEYS
+Keys.js
 # vercel
 .vercel
 
