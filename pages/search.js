@@ -2,7 +2,6 @@ import Head from "next/head"
 import Header from "../components/Header"
 import Image from 'next/image'
 import HeaderOptions from "../components/HeaderOptions"
-import {API_KEY,CONTEXT_KEY} from '../Keys'
 import Response from "../Response"
 import {useRouter} from 'next/router'
 import SearchResult from "../components/SearchResult"
